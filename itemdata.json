@@ -4,7 +4,6 @@
     {"name":"コード:Realize ~彩虹の花束~ for Nintendo Switch","code":"5151005","platform":"Switch"},
     {"name":"DEEMO","code":"5151902","platform":"Switch"},
     {"name":"LITTLE FRIENDS  DOGS & CATS ","code":"5154008","platform":"Switch"},
-    {"name":"SDガンダム ジージェネレーション ジェネシス for Nintendo Switch","code":"5150403","platform":"Switch"},
     {"name":"オランピアソワレ (限定版)","code":"5150518","platform":"Switch"},
     {"name":"キューピット・パラサイト 限定版","code":"5150728","platform":"Switch"},
     {"name":"ゴースト トリック","code":"5041058","platform":"DS"},
@@ -44,7 +43,6 @@
     {"name":"エスプレイドΨ","code":"5130461","platform":"PS4"},
     {"name":"メモリーズオフ Innocent Fille","code":"5153402","platform":"Switch"},
     {"name":"ケツイ Deathtiny ~絆地獄たち~","code":"5130909","platform":"PS4"},
-    {"name":"PEACH BALL 閃乱カグラ","code":"5152703","platform":"Switch"},
     {"name":"閃乱カグラ ピーチ&リフレ限定Wパック","code":"5151412","platform":"Switch"},
     {"name":"ナノアサルト","code":"5102104","platform":"3DS"},
     {"name":"星霜のアマゾネス 3DS","code":"5101410","platform":"3DS"},
@@ -92,5 +90,14 @@
     {"name":"IVY THE KIWI?(アイビィ・ザ・キウィ?)","code":"5080113","platform":"Wii"},
     {"name":"新装版 ハートの国のアリス","code":"5111245","platform":"PSVita"},
     {"name":"BLACK WOLVES SAGA Weiβ und Schwarz","code":"5112867","platform":"PSVita"},
-    {"name":"風雨来記3","code":"5112837","platform":"PSVita"}
+    {"name":"風雨来記3","code":"5112837","platform":"PSVita"},
+    {"name":"ぎゃる☆がん だぶるぴーす ばいりんぎゃる","code":"5110720","platform":"PSVita"},
+    {"name":"ロミオVSジュリエット・全巻パック","code":"5114309","platform":"PSVita"},
+    {"name":"ロミオVSジュリエット・全巻パック 豪華版 (限定版)","code":"5114310","platform":"PSVita"},
+    {"name":"プラスティック・メモリーズ","code":"5112856","platform":"PSVita"},
+    {"name":"プラスティック・メモリーズ (限定版)","code":"5112857","platform":"PSVita"},
+    {"name":"スパイハンター","code":"5111305","platform":"PSVita"},
+    {"name":"まもるクンは呪われてしまった! ~冥界活劇ワイド版~","code":"5013123","platform":"PS3"},
+    {"name":"ウィザードリィ パーフェクトパック","code":"5010319","platform":"PS3"},
+    {"name":"ダンジョンズ&ドラゴンズ ミスタラ英雄戦記","code":"5011651","platform":"PS3"}
    ]
