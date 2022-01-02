@@ -87,5 +87,10 @@
     {"name":"CALLING ~黒き着信~","code":"5081008","platform":"Wii"},
     {"name":"たまらん","code":"5081619","platform":"Wii"},
     {"name":"恐怖体感 呪怨","code":"5080710","platform":"Wii"},
-    {"name":"マイルストーン シューティングコレクション カラスWii","code":"5080606","platform":"Wii"}
+    {"name":"マイルストーン シューティングコレクション カラスWii","code":"5080606","platform":"Wii"},
+    {"name":"マイルストーン シューティングコレクション2","code":"5083114","platform":"Wii"},
+    {"name":"IVY THE KIWI?(アイビィ・ザ・キウィ?)","code":"5080113","platform":"Wii"},
+    {"name":"新装版 ハートの国のアリス","code":"5111245","platform":"PSVita"},
+    {"name":"BLACK WOLVES SAGA Weiβ und Schwarz","code":"5112867","platform":"PSVita"},
+    {"name":"風雨来記3","code":"5112837","platform":"PSVita"}
    ]
