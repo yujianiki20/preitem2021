@@ -134,7 +134,6 @@
     {"name":"ぼくは航空管制官 エアポートヒーロー3D 新千歳 with JAL","code":"5103016","platform":"3DS"},
     {"name":"デビルサバイバー2 ブレイクレコード","code":"5101913","platform":"3DS"},
     {"name":"アジト3D","code":"5100104","platform":"3DS"},
-    {"name":"NEWラブプラス+","code":"5102213","platform":"3DS"},
     {"name":"Shinobi 3D","code":"5101204","platform":"3DS"},
     {"name":"コロぱた","code":"5041053","platform":"DS"},
     {"name":"キモかわE!","code":"5040746","platform":"DS"},
@@ -218,5 +217,6 @@
     {"name":"リーズのアトリエ ~オルドールの錬金術士~ プレミアムボックス (限定版)","code":"5044007","platform":"DS"},
     {"name":"リーズのアトリエ ~オルドールの錬金術士~","code":"5044006","platform":"DS"},
     {"name":"SDガンダム Gジェネレーション DS","code":"5040403","platform":"DS"},
-    {"name":"クイズ きらめきスターロード","code":"5040804","platform":"DS"}
+    {"name":"クイズ きらめきスターロード","code":"5040804","platform":"DS"},
+    {"name":"Code:Realize ~彩虹の花束~ for Nintendo Switch","code":"5151005","platform":"Switch"}
    ]
