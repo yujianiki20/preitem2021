@@ -331,5 +331,20 @@
     {"name":"レンドフルール for Nintendo Switch","code":"5154212","platform":"Switch"},
     {"name":"吉原彼岸花 久遠の契り","code":"5153805","platform":"Switch"},
     {"name":"ビルシャナ戦姫 ~源平飛花夢想~","code":"5152723","platform":"Switch"},
-    {"name":"時計仕掛けのアポカリプス","code":"5152051","platform":"Switch"}
+    {"name":"時計仕掛けのアポカリプス","code":"5152051","platform":"Switch"},
+    {"name":"なりキッズパーク ウルトラマンR/B","code":"5152104","platform":"Switch"},
+    {"name":"amiibo ボーイ(スプラトゥーンシリーズ)","code":"5092354","platform":"Switch"},
+    {"name":"amiibo タコガール(スプラトゥーンシリーズ)","code":"0092531","platform":"Switch"},
+    {"name":"amiibo ヒメ(スプラトゥーンシリーズ)","code":"5092538","platform":"Switch"},
+    {"name":"amiibo アオリ(スプラトゥーンシリーズ)","code":"5092475","platform":"Switch"},
+    {"name":"amiibo ガール(スプラトゥーンシリーズ)","code":"5092353","platform":"Switch"},
+    {"name":"amiibo タコ(スプラトゥーンシリーズ)","code":"0092533","platform":"Switch"},
+    {"name":"amiibo ホタル(スプラトゥーンシリーズ)","code":"5092476","platform":"Switch"},
+    {"name":"amiibo イイダ(スプラトゥーンシリーズ)","code":"5092539","platform":"Switch"},
+    {"name":"amiibo ネコマリオ(スーパーマリオシリーズ)","code":"0092917","platform":"Switch"},
+    {"name":"amiibo ボーイ【ネオングリーン】(スプラトゥーンシリーズ)","code":"5092520","platform":"Switch"},
+    {"name":"amiibo ガール【ネオンピンク】(スプラトゥーンシリーズ)","code":"5092519","platform":"Switch"},
+    {"name":"amiibo ボーイ【パープル】(スプラトゥーンシリーズ)","code":"5092479","platform":"Switch"},
+    {"name":"amiibo イカ【オレンジ】(スプラトゥーンシリーズ)","code":"5092480","platform":"Switch"},
+    {"name":"amiibo ガール【ライムグリーン】(スプラトゥーンシリーズ)","code":"5092478","platform":"Switch"}
    ]
