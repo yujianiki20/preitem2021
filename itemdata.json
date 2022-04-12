@@ -351,5 +351,6 @@
     {"name":"amiibo カムイ(大乱闘スマッシュブラザーズシリーズ)","code":"5092514","platform":"Switch"},
     {"name":"amiibo カムイ【2Pファイター】(大乱闘スマッシュブラザーズシリーズ)","code":"5092517","platform":"Switch"},
     {"name":"amiibo ジョーカー(大乱闘スマッシュブラザーズシリーズ)","code":"0092907","platform":"Switch"},
-    {"name":"amiibo リオレイア&シュヴァル モンスターハンター ストーリーズ","code":"5196185","platform":"3DS"}
+    {"name":"amiibo リオレイア&シュヴァル モンスターハンター ストーリーズ","code":"5196185","platform":"3DS"},
+    {"name":"海辺でリーチ!DS","code":"5040318","platform":"DS"}
    ]
