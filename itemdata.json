@@ -6,7 +6,6 @@
     {"name":"LITTLE FRIENDS  DOGS & CATS ","code":"5154008","platform":"Switch"},
     {"name":"オランピアソワレ (限定版)","code":"5150518","platform":"Switch"},
     {"name":"ゴースト トリック","code":"5041058","platform":"DS"},
-    {"name":"ジョジョの奇妙な冒険 アイズオブヘブン","code":"5131212","platform":"PS4"},
     {"name":"ときめきメモリアル Girl’s Side 1st Love","code":"5042012","platform":"DS"},
     {"name":"ときめきメモリアル Girl’s Side 1st Love Plus","code":"5042084","platform":"DS"},
     {"name":"ときめきメモリアル Girl’s Side 2nd Season","code":"5042030","platform":"DS"},
@@ -352,5 +351,12 @@
     {"name":"amiibo カムイ【2Pファイター】(大乱闘スマッシュブラザーズシリーズ)","code":"5092517","platform":"Switch"},
     {"name":"amiibo ジョーカー(大乱闘スマッシュブラザーズシリーズ)","code":"0092907","platform":"Switch"},
     {"name":"amiibo リオレイア&シュヴァル モンスターハンター ストーリーズ","code":"5196185","platform":"3DS"},
-    {"name":"海辺でリーチ!DS","code":"5040318","platform":"DS"}
+    {"name":"海辺でリーチ!DS","code":"5040318","platform":"DS"},
+    {"name":"少年鬼忍伝ツムジ","code":"5041291","platform":"DS"},
+    {"name":"探偵 神宮寺三郎DS 伏せられた真実","code":"5041659","platform":"DS"},
+    {"name":"地獄少女 朱蘰","code":"5041237","platform":"DS"},
+    {"name":"ビズ能力DSシリーズ 話心の素","code":"5042711","platform":"DS"},
+    {"name":"うる星やつら エンドレスサマー","code":"5040301","platform":"DS"},
+    {"name":"ふしぎ遊戯DS","code":"5042860","platform":"DS"},
+    {"name":"ハイスクールD×D","code":"5102621","platform":"3DS"}
    ]
